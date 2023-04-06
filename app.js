@@ -9,8 +9,8 @@ let currentYear= 2023;
 const manufacturer= "my computer is "+ myComputerManufacturer;
 console.log(manufacturer);
 
-const memory=" it runs on "+ myComputerMemory;
-console.log(memory);
+const OS=" it runs on "+ myComputerOS;
+console.log(OS);
 
 const usingTime= currentYear-computerBuyingYear;
 console.log("and I've been using it for "+usingTime +" years");
